@@ -1,5 +1,7 @@
 require 'json'
 
+# require './lib/logging'
+
 require './calc'
 require './team'
 require './program'
