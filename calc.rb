@@ -1,7 +1,4 @@
 class Calc
-	# output is hash of {team_name => points} where
-	# points is the points earned in the match
-	# TODO: optimize this
 	def get_points (match)
 		arr = match.each_key.to_a
 		if match[arr[0]] == match[arr[1]]

@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    tournament_gem (0.0.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  tournament_gem!
+
+BUNDLED WITH
+   2.2.22
